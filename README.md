@@ -1,2 +1,2 @@
 # Python Books
-## Compilation of the most popular and useful free books
+## Compilation of the most popular and useful books
